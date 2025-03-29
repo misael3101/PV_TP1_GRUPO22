@@ -1,0 +1,25 @@
+
+
+body{
+    display: flex;
+    justify-content: center;
+    margin: 15%;
+}
+
+.caja-form{
+    text-align: center;
+    border: 1px solid black;
+    width: 20%;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    background-color: burlywood;
+}
+
+form{
+    height: 30vh;
+}
+
+input{
+    width: 25vh;
+}
